@@ -2,7 +2,6 @@
 Script created by Itay Barak 2024
 */
 
-const spreadsheetID = "1KS6sRgiugCLk9QJcngcdES_150RqoOiZh4s4ym84Ahk"
 const sheet_ids = {"חישובי עזר":2131840200,
 "מעקב אוטומטי":1259578473,
 "מעקב ידני":0,
